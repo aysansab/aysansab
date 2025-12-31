@@ -1,8 +1,33 @@
-- 👋🏻 Hi, I’m @aysansab
-- 👀 I’m currently learning python.
-- 📫 How to reach me saberi.aysan7@gmail.com
+Hi, I’m Aysan Saberi.
 
-<!---
-aysansab/aysansab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a background in cybersecurity with a focus on network security and penetration testing.
+
+### Background
+- Bachelor’s project in penetration testing
+- Certifications:
+  - Network+
+  - Security+
+  - CEH
+- Experience with academic and lab-based penetration testing projects
+
+### Currently Learning
+- Python (security scripting and automation)
+- Fortinet security track (FCA, FCP, FCX)
+
+### Skills
+- Network security fundamentals
+- Penetration testing (academic/lab environments)
+- Firewall and NGFW concepts (FortiGate)
+- Python for security tasks
+
+### Tools
+- Nmap
+- Metasploit
+- Burp Suite
+- Wireshark
+
+### Projects
+Some projects are academic or lab-based and are not publicly available.
+
+### Contact
+Email: saberi.aysan7@gmail.com
